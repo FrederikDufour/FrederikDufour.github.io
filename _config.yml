@@ -1,0 +1,13 @@
+# Website settings
+title: My Personal Portfolio
+description: A showcase of my developer projects and blog posts.
+url: "https://username.github.io"
+baseurl: "" # leave blank if your site is at the root domain
+
+# Theme selection
+theme: jekyll-theme-minimal
+
+# Author information
+author:
+  name: Your Name
+  email: your.email@example.com
