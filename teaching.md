@@ -7,17 +7,40 @@ permalink: /teaching/
 <div class="teaching-content">
   <h1>Teaching</h1>
 
-  <div class="paper-list">
-    <article class="paper">
-      <h2>Course Code: Course Title</h2>
-      <p class="paper-meta">Teaching Assistant · University of Toronto · Fall 2025</p>
-      <p>Led tutorials, held office hours, graded assignments, and supported students with course material.</p>
-    </article>
+  <p class="teaching-role">Teaching Assistant, University of Toronto</p>
 
-    <article class="paper">
-      <h2>Course Code: Another Course Title</h2>
-      <p class="paper-meta">Teaching Assistant · University of Toronto · Winter 2025</p>
-      <p>Add a short description of your responsibilities.</p>
-    </article>
+  <div class="teaching-list" role="list">
+    <div class="teaching-row" role="listitem">
+      <span><strong>ECO1960</strong>: Energy and Regulation</span>
+      <span class="teaching-year">2024 - 2026</span>
+    </div>
+    <div class="teaching-row" role="listitem">
+      <span><strong>ECO313</strong>: Environmental Economics and Policies</span>
+      <span class="teaching-year">2026</span>
+    </div>
+    <div class="teaching-row" role="listitem">
+      <span><strong>ECO314</strong>: Energy and the Environment</span>
+      <span class="teaching-year">2025</span>
+    </div>
+    <div class="teaching-row" role="listitem">
+      <span><strong>ECO475</strong>: Applied Econometrics II</span>
+      <span class="teaching-year">2023</span>
+    </div>
+    <div class="teaching-row" role="listitem">
+      <span><strong>ECO333</strong>: Urban Economics</span>
+      <span class="teaching-year">2023</span>
+    </div>
+    <div class="teaching-row" role="listitem">
+      <span><strong>ECO316</strong>: Applied Game Theory</span>
+      <span class="teaching-year">2022</span>
+    </div>
+    <div class="teaching-row" role="listitem">
+      <span><strong>ECO502</strong>: Software TA (tutorials and general help for ECO courses)</span>
+      <span class="teaching-year">2022 - 2026</span>
+    </div>
+    <div class="teaching-row" role="listitem">
+      <span><strong>Other courses</strong>: ECO101, ECO102, ECO220</span>
+      <span class="teaching-year">2021 - 2026</span>
+    </div>
   </div>
 </div>

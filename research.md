@@ -13,27 +13,32 @@ permalink: /research/
 
   <div class="paper-list">
     <article class="paper">
-      <h2>Title of Your Working Paper</h2>
-      <p class="paper-meta">With Coauthor Name</p>
-      <p>A short description of the question, method, and main result.</p>
-      <p><a href="#">Paper</a> · <a href="#">Code</a></p>
+      <h2>Is the Trend of Negative Productivity Growth in Electricity Distribution Over? Empirical Evidence Using Ontario Data</h2>
+      <p class="paper-meta">With Michael Scafe and Adonis Yatchew</p>
     </article>
 
     <article class="paper">
-      <h2>Title of Another Working Paper</h2>
-      <p class="paper-meta">Solo authored</p>
-      <p>A short description of the question, method, and main result.</p>
-      <p>Draft available upon request.</p>
+      <h2>Electricity Futures and Time-Varying Risk Premia: Evidence from Alberta</h2>
+      <p class="paper-meta">With Derek Olmstead and Adonis Yatchew</p>
+    </article>
+
+    <article class="paper">
+      <h2>Investment Timing Under Regulatory Cycles</h2>
+    </article>
+
+    <article class="paper">
+      <h2>Power Outages and Household Consumption - Evidence from California</h2>
     </article>
   </div>
 
-  <h1>Published work</h1>
+  <h1>Reports</h1>
 
   <div class="paper-list">
     <article class="paper">
-      <h2>Title of Published Article</h2>
-      <p class="paper-meta">With Coauthor Name · <em>Journal Name</em>, 2026</p>
-      <p><a href="#">Journal / DOI</a></p>
+      <h2>Review of Total Cost Benchmarking Methodology for Electricity Distributors</h2>
+      <p class="paper-meta">With Adonis Yatchew et al. (2024)</p>
+      <p>Produced through a collaboration with the Ontario Energy Board and Climate Positive Energy.</p>
+      <p><a href="https://www.oeb.ca/sites/default/files/Review%20of%20Total%20Cost%20Benchmarking%20Methodology%20for%20Electricity%20Distributors.pdf" target="_blank" rel="noopener">Published on the OEB website</a></p>
     </article>
   </div>
 </div>

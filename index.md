@@ -8,7 +8,7 @@ title: Home
     <img class="profile-photo" src="{{ '/assets/profile-placeholder.svg' | relative_url }}" alt="Placeholder portrait of Frédérik Dufour">
 
     <ul class="contact-links">
-      <li><a href="mailto:you@example.com">Email</a></li>
+      <li><a href="mailto:frederik.dufour@mail.utoronto.ca">Email</a></li>
       <li><a href="https://www.linkedin.com/" target="_blank" rel="noopener">LinkedIn</a></li>
       <li>Toronto, Canada</li>
     </ul>
