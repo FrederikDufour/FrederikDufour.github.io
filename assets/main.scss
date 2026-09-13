@@ -1,0 +1,190 @@
+---
+---
+
+@import "minima";
+
+$border-color: #dedede;
+$muted-color: #666;
+
+body {
+  color: #222;
+}
+
+.wrapper {
+  max-width: 920px;
+}
+
+.site-header {
+  min-height: 74px;
+  border-top: 0;
+  border-bottom: 1px solid $border-color;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  min-height: 74px;
+  gap: clamp(3rem, 9vw, 7rem);
+}
+
+.site-title,
+.site-title:visited {
+  flex: 0 0 auto;
+  color: #222;
+  font-size: 1.15rem;
+  font-weight: 600;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.site-nav {
+  position: static;
+  display: flex;
+  align-items: center;
+  gap: 1.75rem;
+  margin-left: 0;
+  border: 0;
+  background: transparent;
+  line-height: normal;
+}
+
+.site-nav a,
+.site-nav a:visited {
+  color: #222;
+  font-size: 1rem;
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.3em;
+}
+
+.page-content {
+  padding: 4rem 0 5rem;
+}
+
+.home-grid {
+  display: grid;
+  grid-template-columns: 210px minmax(0, 1fr);
+  gap: clamp(3rem, 8vw, 5.5rem);
+  align-items: start;
+}
+
+.profile-column {
+  text-align: center;
+}
+
+.profile-photo {
+  display: block;
+  width: 190px;
+  height: 190px;
+  margin: 0 auto 1.5rem;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.contact-links {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.92rem;
+  line-height: 1.9;
+}
+
+.contact-links a {
+  white-space: nowrap;
+}
+
+.introduction h1,
+.research-content h1,
+.teaching-content h1 {
+  margin-top: 0;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.introduction p {
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+.research-photo {
+  margin-bottom: 2.5rem;
+  text-align: left;
+}
+
+.research-photo .profile-photo {
+  width: 135px;
+  height: 135px;
+  margin: 0;
+}
+
+.paper-list {
+  margin-top: 2rem;
+}
+
+.paper {
+  padding: 1.35rem 0;
+  border-top: 1px solid $border-color;
+}
+
+.paper:last-child {
+  border-bottom: 1px solid $border-color;
+}
+
+.paper h2 {
+  margin: 0 0 0.3rem;
+  font-size: 1.15rem;
+}
+
+.paper p {
+  margin-bottom: 0.45rem;
+}
+
+.paper-meta {
+  color: $muted-color;
+  font-size: 0.92rem;
+}
+
+.site-footer {
+  padding: 1.5rem 0;
+}
+
+.footer-heading,
+.footer-col-wrapper {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .header-content {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.75rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+
+  .site-nav {
+    gap: 1.25rem;
+  }
+
+  .page-content {
+    padding-top: 2.5rem;
+  }
+
+  .home-grid {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+
+  .profile-column {
+    text-align: left;
+  }
+
+  .profile-photo {
+    width: 155px;
+    height: 155px;
+    margin-left: 0;
+  }
+}

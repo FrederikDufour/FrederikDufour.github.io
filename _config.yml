@@ -1,13 +1,18 @@
-# Website settings
-title: My Personal Portfolio
-description: A showcase of my developer projects and blog posts.
-url: "https://username.github.io"
-baseurl: "" # leave blank if your site is at the root domain
+title: Frédérik Dufour
+description: Personal academic website of Frédérik Dufour.
+url: "https://frederikdufour.github.io"
+baseurl: ""
 
-# Theme selection
-theme: jekyll-theme-minimal
+theme: minima
 
-# Author information
-author:
-  name: Your Name
-  email: your.email@example.com
+header_pages:
+  - research.md
+  - teaching.md
+
+minima:
+  skin: classic
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
