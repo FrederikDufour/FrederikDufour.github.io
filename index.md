@@ -5,7 +5,7 @@ title: Home
 
 <div class="home-grid">
   <aside class="profile-column">
-    <img class="profile-photo" src="{{ '/assets/profile-placeholder.svg' | relative_url }}" alt="Placeholder portrait of Frédérik Dufour">
+    <img class="profile-photo" src="{{ '/assets/photo_web1.jpg' | relative_url }}" alt="Placeholder portrait of Frédérik Dufour">
 
     <ul class="contact-links">
       <li><a href="mailto:frederik.dufour@mail.utoronto.ca">Email</a></li>
