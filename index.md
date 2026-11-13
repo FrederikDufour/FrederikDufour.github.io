@@ -28,7 +28,7 @@ title: Home
         GitHub
       </a>
     </li>
-    <li>Toronto, Canada</li>
+    <li><img class="contact-icon" src="{{ '/assets/geo-alt-fill.svg' | relative_url }}" alt="">Toronto, Canada</li>
   </ul>
   </aside>
   <section class="introduction">
