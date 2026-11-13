@@ -14,8 +14,41 @@ permalink: /research/
       <p>Produced through a collaboration with the Ontario Energy Board and Climate Positive Energy.</p>
       <p><a href="https://www.oeb.ca/sites/default/files/Review%20of%20Total%20Cost%20Benchmarking%20Methodology%20for%20Electricity%20Distributors.pdf" target="_blank" rel="noopener">Published on the OEB website</a></p>
       <details>
-        <summary>Abstract</summary>
-        <p>Paste your abstract here.</p>
+        <summary>Introduction</summary>
+        <p>This report reviews the Ontario Energy Board (OEB) total cost benchmarking methodology
+for electricity distributors. The work is a collaboration between the University of Toronto’s
+Economics Department and the OEB; and is funded by the OEB and Climate Positive Energy at
+the University of Toronto. The project addresses methodological issues, particularly the
+statistical benchmarking approach used by the OEB, explores alternative approaches and
+benchmarking practices in other jurisdictions, conducts an extensive literature review and
+identifies observations and considerations for modifications. A separate and closely related
+report conducts statistical analyses of distributor cost benchmarking.
+The vision of the OEB is “To be a trusted regulator who is recognized for enabling Ontario’s
+growing economy and improving the quality of life for the people of this province who deserve
+safe, reliable and affordable energy.” Its stated mission is “To deliver public value through
+prudent regulation and independent adjudicative decision-making which contributes to
+Ontario’s economic, social and environmental development.”2 Within this context, the OEB has
+regulated electricity distribution utilities for a quarter of a century. The OEB turned to incentive
+regulation early and developed a systematic framework for regulating numerous utilities,
+promoted energy conservation, encouraged efficiency gains through mergers and acquisitions,
+held major stakeholder consolidations, maintained an ‘open data’ process, and most
+importantly, ensured that ‘the lights stayed on’. The OEB’s use of data-based approaches as
+tools for informing the regulation of a diverse and disparate set of utilities is at the leading edge,
+globally.
+The landscape of electricity industries is being transformed as we move into an energy
+transition driven by decarbonization, digitization, and decentralization. Arguably, electricity
+industries are also experiencing a degree of democratization as small-scale alternatives compete
+with conventional systems. Electricity distribution companies are evolving from distributing
+electricity and providing energy services, to actively managing bi-directional energy flows,
+integrating distributed energy resources (DERs), and adapting to changes in consumption
+paterns. Their activities include managing the growing adoption of electric vehicles (EVs), the
+electrification of heating, and incorporation of new digital and smart grid technologies which
+require significant upgrades to infrastructure and operations. As we move further into the
+energy transition, one of the explicitly stated guiding lights should be promoting and
+incentivizing innovation. Electric utilities tend to be risk-averse, but incremental technological
+change and game-changing breakthroughs inevitably involve projects that fail and other
+projects that succeed. Promoting change requires support from the Government and a
+willingness and incentives for distributors to take risks.</p>
       </details>
     </article>
   </div>
