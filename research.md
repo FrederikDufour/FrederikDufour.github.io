@@ -22,7 +22,8 @@ permalink: /research/
   <h2>Work-in-Progress</h2>
   <div class="paper-list">
     <article class="paper">
-      <h2>Is the Trend of Negative Productivity Growth in Electricity Distribution Over? Empirical Evidence Using Ontario Data</h2>
+      <h2>Electricity Distribution in the Energy Transition:
+Revisiting Productivity Growth in Ontario</h2>
       <p class="paper-meta">With Michael Scafe and Adonis Yatchew</p>
       <details>
         <summary>Abstract</summary>
