@@ -5,10 +5,6 @@ permalink: /research/
 ---
 
 <div class="research-content">
-  <div class="research-photo">
-    <img class="profile-photo" src="{{ '/assets/photo_web1.jpg' | relative_url }}" alt="Photo: Frédérik Dufour">
-  </div>
-
   <h1>Research</h1>
   <h2>Reports</h2>
   <div class="paper-list">
