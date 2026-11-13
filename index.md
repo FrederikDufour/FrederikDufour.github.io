@@ -6,7 +6,7 @@ title: Home
 <div class="home-grid">
   <aside class="profile-column">
   <img class="profile-photo"
-       src="{{ '/assets/photo_web1.jpg' | relative_url }}"
+       src="{{ '/assets/portrait_blank.jpg' | relative_url }}"
        alt="Portrait of Frédérik Dufour">
 
   <ul class="contact-links">
