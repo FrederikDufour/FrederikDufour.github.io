@@ -84,7 +84,7 @@ border-bottom-color: #4d4d4d;
   margin: 0 auto 1.5rem;
   border-radius: 50%;
   object-fit: cover;
-  object-position: 30% 50%;
+  transform: translate(10px, 0) scale(1.2);
 }
 
 .contact-links {
