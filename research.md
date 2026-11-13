@@ -14,7 +14,7 @@ permalink: /research/
       <p>Produced through a collaboration with the Ontario Energy Board and Climate Positive Energy.</p>
       <p><a href="https://www.oeb.ca/sites/default/files/Review%20of%20Total%20Cost%20Benchmarking%20Methodology%20for%20Electricity%20Distributors.pdf" target="_blank" rel="noopener">Published on the OEB website</a></p>
       <details>
-        <summary>Introduction</summary>
+        <summary>Intro</summary>
         <p>This report reviews the Ontario Energy Board (OEB) total cost benchmarking methodology
 for electricity distributors. The work is a collaboration between the University of Toronto’s
 Economics Department and the OEB; and is funded by the OEB and Climate Positive Energy at
@@ -27,7 +27,7 @@ The vision of the OEB is “To be a trusted regulator who is recognized for enab
 growing economy and improving the quality of life for the people of this province who deserve
 safe, reliable and affordable energy.” Its stated mission is “To deliver public value through
 prudent regulation and independent adjudicative decision-making which contributes to
-Ontario’s economic, social and environmental development.”2 Within this context, the OEB has
+Ontario’s economic, social and environmental development.” Within this context, the OEB has
 regulated electricity distribution utilities for a quarter of a century. The OEB turned to incentive
 regulation early and developed a systematic framework for regulating numerous utilities,
 promoted energy conservation, encouraged efficiency gains through mergers and acquisitions,
