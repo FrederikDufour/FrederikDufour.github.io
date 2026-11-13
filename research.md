@@ -10,7 +10,20 @@ permalink: /research/
   </div>
 
   <h1>Research</h1>
-
+  <h2>Reports</h2>
+  <div class="paper-list">
+    <article class="paper">
+      <h2>Review of Total Cost Benchmarking Methodology for Electricity Distributors</h2>
+      <p class="paper-meta">With Adonis Yatchew et al. (2024)</p>
+      <p>Produced through a collaboration with the Ontario Energy Board and Climate Positive Energy.</p>
+      <p><a href="https://www.oeb.ca/sites/default/files/Review%20of%20Total%20Cost%20Benchmarking%20Methodology%20for%20Electricity%20Distributors.pdf" target="_blank" rel="noopener">Published on the OEB website</a></p>
+      <details>
+        <summary>Abstract</summary>
+        <p>Paste your abstract here.</p>
+      </details>
+    </article>
+  </div>
+  <h2>Work-in-Progress</h2>
   <div class="paper-list">
     <article class="paper">
       <h2>Is the Trend of Negative Productivity Growth in Electricity Distribution Over? Empirical Evidence Using Ontario Data</h2>
@@ -42,19 +55,5 @@ permalink: /research/
       </details>
     </article>
   </div>
-
-  <h1>Reports</h1>
-
-  <div class="paper-list">
-    <article class="paper">
-      <h2>Review of Total Cost Benchmarking Methodology for Electricity Distributors</h2>
-      <p class="paper-meta">With Adonis Yatchew et al. (2024)</p>
-      <p>Produced through a collaboration with the Ontario Energy Board and Climate Positive Energy.</p>
-      <p><a href="https://www.oeb.ca/sites/default/files/Review%20of%20Total%20Cost%20Benchmarking%20Methodology%20for%20Electricity%20Distributors.pdf" target="_blank" rel="noopener">Published on the OEB website</a></p>
-      <details>
-        <summary>Abstract</summary>
-        <p>Paste your abstract here.</p>
-      </details>
-    </article>
-  </div>
+  
 </div>
