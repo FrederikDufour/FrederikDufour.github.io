@@ -5,16 +5,32 @@ title: Home
 
 <div class="home-grid">
   <aside class="profile-column">
-    <img class="profile-photo" src="{{ '/assets/photo_web1.jpg' | relative_url }}" alt="Photo: Frédérik Dufour">
+  <img class="profile-photo"
+       src="{{ '/assets/photo_web1.jpg' | relative_url }}"
+       alt="Portrait of Frédérik Dufour">
 
-    <ul class="contact-links">
-      <li><a href="mailto:frederik.dufour@mail.utoronto.ca"><img class="contact-icon"src="{{ '/assets/enveloppe.svg' | relative_url }}" alt="">Email</a></li>
-      <li><a href="https://www.linkedin.com/in/fr%C3%A9d%C3%A9rik-dufour-5b2489186/"><img class="contact-icon"src="{{ '/assets/linkedin.svg' | relative_url }}" alt="">LinkedIn</a></li>
-      <li><a href="https://github.com/FrederikDufour"><img class="contact-icon"src="{{ '/assets/github.svg' | relative_url }}" alt="">GitHub</a></li>
-      <li>Toronto, Canada</li>
-    </ul>
+  <ul class="contact-links">
+    <li>
+      <a href="mailto:frederik.dufour@mail.utoronto.ca">
+        <img class="contact-icon" src="{{ '/assets/envelope.svg' | relative_url }}" alt="">
+        Email
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/fr%C3%A9d%C3%A9rik-dufour-5b2489186/">
+        <img class="contact-icon" src="{{ '/assets/linkedin.svg' | relative_url }}" alt="">
+        LinkedIn
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/FrederikDufour">
+        <img class="contact-icon" src="{{ '/assets/github.svg' | relative_url }}" alt="">
+        GitHub
+      </a>
+    </li>
+    <li>Toronto, Canada</li>
+  </ul>
   </aside>
-
   <section class="introduction">
     <h1>Biography</h1>
 
