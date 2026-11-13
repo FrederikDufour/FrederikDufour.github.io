@@ -21,7 +21,19 @@ title: Home
     teaching experience are available below. </p>
 
     <h2>Education</h2>
-
+    
   </section>  
+
+  <section aria-labelledby="education">
+  <h2 id="education">Education</h2>
+  <ul>
+    <li><strong>Ph.D. in Economics</strong>, University of Toronto
+      (expected 2027)</li>
+    <li><strong>M.Sc. in Economics</strong>, Université de Montréal
+      (2021)</li>
+    <li><strong>B.Sc. in Economics (Honours)</strong>, Université de Montréal
+      (2020)</li>
+  </ul>
+</section>
   
 </div>
