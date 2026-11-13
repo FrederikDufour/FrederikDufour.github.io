@@ -17,13 +17,13 @@ title: Home
       </a>
     </li>
     <li>
-      <a href="https://www.linkedin.com/in/fr%C3%A9d%C3%A9rik-dufour-5b2489186/">
+      <a href="https://www.linkedin.com/in/fr%C3%A9d%C3%A9rik-dufour-5b2489186/" target="_blank" rel="noopener">
         <img class="contact-icon" src="{{ '/assets/linkedin.svg' | relative_url }}" alt="">
         LinkedIn
       </a>
     </li>
     <li>
-      <a href="https://github.com/FrederikDufour">
+      <a href="https://github.com/FrederikDufour" target="_blank" rel="noopener">
         <img class="contact-icon" src="{{ '/assets/github.svg' | relative_url }}" alt="">
         GitHub
       </a>
