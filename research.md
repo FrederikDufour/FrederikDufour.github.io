@@ -14,7 +14,7 @@ permalink: /research/
       <p>Produced through a collaboration with the Ontario Energy Board and Climate Positive Energy.</p>
       <p><a href="https://www.oeb.ca/sites/default/files/Review%20of%20Total%20Cost%20Benchmarking%20Methodology%20for%20Electricity%20Distributors.pdf" target="_blank" rel="noopener">Published on the OEB website</a></p>
       <details>
-        <summary>Intro</summary>
+        <summary>Summary</summary>
         <p>This report reviews the Ontario Energy Board (OEB) total cost benchmarking methodology
 for electricity distributors. The work is a collaboration between the University of Toronto’s
 Economics Department and the OEB; and is funded by the OEB and Climate Positive Energy at
