@@ -18,6 +18,8 @@ body {
   min-height: 74px;
   border-top: 0;
   border-bottom: 1px solid $border-color;
+  background-color: #1e293b;
+  border-bottom-color: #334155;
 }
 
 .header-content {
@@ -30,7 +32,7 @@ body {
 .site-title,
 .site-title:visited {
   flex: 0 0 auto;
-  color: #222;
+  color: #fff;
   font-size: 1.15rem;
   font-weight: 600;
   letter-spacing: 0;
@@ -50,7 +52,7 @@ body {
 
 .site-nav a,
 .site-nav a:visited {
-  color: #222;
+  color: #fff;
   font-size: 1rem;
   text-decoration: none;
 }
