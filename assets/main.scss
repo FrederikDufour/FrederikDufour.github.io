@@ -68,7 +68,7 @@ border-bottom-color: #444;
 
 .home-grid {
   display: grid;
-  grid-template-columns: 210px minmax(0, 1fr);
+  grid-template-columns: 250px minmax(0, 1fr);
   gap: clamp(3rem, 8vw, 5.5rem);
   align-items: start;
 }
