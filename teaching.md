@@ -11,7 +11,7 @@ permalink: /teaching/
   <section>
   <h2>Urban Economics Project</h2>
   <video controls preload="metadata" style="width: 100%;">
-    <source src="{{ '/assets/urban-economics.mp4' | relative_url }}" type="video/mp4">
+    <source src="{{ '/assets/EV_Adoption_Toronto_2020-2025.mp4' | relative_url }}" type="video/mp4">
   </video>
   </section>
   <div class="teaching-list" role="list">
