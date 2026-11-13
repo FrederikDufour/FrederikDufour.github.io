@@ -47,7 +47,7 @@ permalink: /research/
       <h2>Power Outages and Household Consumption - Evidence from California</h2>
       <details>
         <summary>Abstract</summary>
-          <p>Test.</p>
+          <p>Leveraging Nighttime Lights (NTL) satellite data and the unique wildfire-related preemptive power shutoffs of Pacific Gas and Electric (PG\&E) of October 2019 in California, I study the impact of prolonged electricity outages on household consumption. Recent improvements in NTL data provide tools for a novel assessment of changes in household choices during and after extended outages at a granular level. I find that, during the event, the volume sold of essential emergency items, notably flashlights and bottled water, surged while other non-perishable and refrigerated foods' sales remained largely stable, with sales across most categories reverting to normal levels a month later. Evidence suggests a largely homogeneous impact among zip codes with different levels of outage intensity. However, some groups, such as elderly individuals, experienced higher outage intensities and different consumer responses to the event. Supplemental analysis suggests potential stockouts for flashlights and bottled water items, while no evidence of price gouging was found.</p>
       </details>
     </article>
   </div>
