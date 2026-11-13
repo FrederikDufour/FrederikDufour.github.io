@@ -46,5 +46,5 @@ title: Home
     <li><strong>B.Sc. in Economics (Honours)</strong>, Université de Montréal
       (2020)</li>
     </ul>
-    
+    </section>
 </div>
