@@ -9,7 +9,7 @@ permalink: /teaching/
   
   <p class="teaching-role">Teaching Assistant, University of Toronto</p>
   <section>
-  <h2>EV adoption in Toronto 2020-2025 (<a href="[https://github.com/FrederikDufour](https://github.com/FrederikDufour/ECO414_DataVisualizationTutorial)">
+  <h2>EV adoption in Toronto 2020-2025 (<a href="https://github.com/FrederikDufour/ECO414_DataVisualizationTutorial">
         Tutorial
       </a>)
   </h2>
