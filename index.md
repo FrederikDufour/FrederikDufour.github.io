@@ -17,8 +17,8 @@ title: Home
   <section class="introduction">
     <h1>About</h1>
 
-    <p>I am a doctoral student at the University of Toronto. My research focuses on applied topics in energy economics, industrial organization, and financial economics.</p>
+    <p>I am a doctoral student at the University of Toronto. My research focuses on applied topics in energy economics, industrial organization, and financial economics. My research and 
+    teaching experience are available below. </p>
 
-    <p>Second paragraph (education?)</p>
   </section>
 </div>
