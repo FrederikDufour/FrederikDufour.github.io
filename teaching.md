@@ -6,9 +6,14 @@ permalink: /teaching/
 
 <div class="teaching-content">
   <h1>Teaching</h1>
-
+  
   <p class="teaching-role">Teaching Assistant, University of Toronto</p>
-
+  <section>
+  <h2>Urban Economics Project</h2>
+  <video controls preload="metadata" style="width: 100%;">
+    <source src="{{ '/assets/urban-economics.mp4' | relative_url }}" type="video/mp4">
+  </video>
+  </section>
   <div class="teaching-list" role="list">
     <div class="teaching-row" role="listitem">
       <span><strong>ECO1960</strong>: Energy and Regulation</span>
