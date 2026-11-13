@@ -63,16 +63,17 @@ Revisiting Productivity Growth in Ontario</h2>
           <p>With distribution accounting for a substantial share of electricity bills, understanding the sources of productivity growth is important for containing costs and sustaining consumer support for grid investment during the energy transition. This paper examines productivity growth among Ontario electricity distributors over 2013–2022 using a translog cost function estimated by feasible generalized least squares, complemented by Törnqvist productivity indices, semiparametric models, and frontier methods. Our main estimates of annual productivity growth range from −0.2% to 0.2%, representing an improvement of approximately one percentage point relative to the preceding decade. The results suggest that accounting for electric vehicle charging infrastructure and asset age is important for measuring distributor productivity. Despite numerous mergers during the sample period, gains in scale efficiency appear unlikely to explain much of the improvement in productivity growth. Distributor rankings also exhibit persistence over time.</p>
       </details>
     </article>
+    <hr>
 
     <article class="paper">
       <h2>Electricity Futures and Time-Varying Risk Premia: Evidence from Alberta</h2>
       <p class="paper-meta">With Derek Olmstead and Adonis Yatchew</p>
     </article>
-
+    <hr>
     <article class="paper">
       <h2>Investment Timing Under Regulatory Cycles</h2>
     </article>
-
+    <hr>
     <article class="paper">
       <h2>Power Outages and Household Consumption - Evidence from California</h2>
       <details>
