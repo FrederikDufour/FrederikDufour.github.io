@@ -9,7 +9,7 @@ permalink: /teaching/
   
   <p class="teaching-role">Teaching Assistant, University of Toronto</p>
   <section>
-  <h3>EV adoption per capita in Toronto 2020-2025 (<a href="https://github.com/FrederikDufour/ECO414_DataVisualizationTutorial" target="_blank" rel="noopener">Code</a>)
+  <h3>EV per capita evolution in Toronto 2020-2025 (<a href="https://github.com/FrederikDufour/ECO414_DataVisualizationTutorial" target="_blank" rel="noopener">Code</a>)
   </h3>
   <video controls preload="metadata" style="width: 60%;">
     <source src="{{ '/assets/EV_Adoption_Toronto_2020-2025.mp4' | relative_url }}" type="video/mp4">
