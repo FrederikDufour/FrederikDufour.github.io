@@ -1,0 +1,18 @@
+title: Frédérik Dufour
+description: Personal academic website of Frédérik Dufour.
+url: "https://frederikdufour.github.io"
+baseurl: ""
+
+theme: minima
+
+header_pages:
+  - research.md
+  - teaching.md
+
+minima:
+  skin: classic
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

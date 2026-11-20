@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="720" viewBox="0 0 600 720">
+  <rect width="600" height="720" fill="#eeeeee"/>
+  <circle cx="300" cy="250" r="105" fill="#c8c8c8"/>
+  <path d="M125 600c18-125 83-188 175-188s157 63 175 188" fill="#c8c8c8"/>
+  <text x="300" y="675" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">Replace with your portrait</text>
+</svg>
